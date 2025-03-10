@@ -1,0 +1,2 @@
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/* filter=lfs diff=lfs merge=lfs -text
+.terraformproj/* filter=lfs diff=lfs merge=lfs -text
